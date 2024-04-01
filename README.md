@@ -1,4 +1,4 @@
-# Cypress with TDD
+# Cypress with BDD
 E2E testing of DemoBlaze Website using Cypress with Behaviour Driven Development and Page Object Model (POM) which is an architectural design pattern commonly used in test automation, especially for web applications. The primary goal of the Page Object Model is to enhance test code maintainability, readability, and reusability. Code is written in Typescript and Eslint is used for code linting and ensuring code quality.
 
 # Table of contents
@@ -18,7 +18,7 @@ Make sure you have configured right your git account and you have the following 
 
 ## Setup Locally
  ```bash
- git clone https://github.com/YlberPllana/YlberPllana-DemoBlaze-TDD.git
+ git clone https://github.com/YlberPllana/DemoBlaze-BDD.git
  ```
  ```bash
  cd your-project
