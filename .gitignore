@@ -1,0 +1,13 @@
+/node_modules
+
+# cypress files
+cypress/videos
+cypress/screenshots
+cypress/cucumber-json
+cypress/fixtures/randomCredentials.json
+
+# Cucumber
+cucumber-report.html
+cucumber-messages.ndjson
+
+cypress.env.json
