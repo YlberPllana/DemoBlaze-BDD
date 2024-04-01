@@ -5,7 +5,7 @@ cypress/videos
 cypress/screenshots
 cypress/cucumber-json
 cypress/fixtures/randomCredentials.json
-report/images
+/report/images
 
 # Cucumber
 cucumber-report.html
